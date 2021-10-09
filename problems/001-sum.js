@@ -14,7 +14,7 @@
  */
 function sum(n) {
     let sum = (n * (n + 1)) / 2; //формула суммы последовательных целых
-    return sum
+    return sum //some info
 }
 
 module.exports = sum;
