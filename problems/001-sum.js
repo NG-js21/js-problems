@@ -13,7 +13,8 @@
  * @returns {number}
  */
 function sum(n) {
-    return undefined;
+    let sum = (n * (n + 1)) / 2; //формула суммы последовательных целых
+    return sum
 }
 
 module.exports = sum;
